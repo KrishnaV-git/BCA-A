@@ -6,7 +6,7 @@
     <title>Student Marks Card</title>
     <style>
         table {
-            width: 50%;
+            width: 70%;
             border-collapse: collapse;
             margin: 20px;
         }
